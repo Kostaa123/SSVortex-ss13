@@ -83,3 +83,23 @@ Name = Coder
 Include = DEBUG VAREDIT SERVER SPAWN POLL
 Exclude = AUTOADMIN
 Edit =
+
+Name = Head Of Mapping
+Include = EVERYTHING
+Exclude = 
+Edit = EVERYTHING
+
+Name = Head Of Development
+Include = EVERYTHING
+Exclude = 
+Edit = EVERYTHING
+
+Name = Head Of Sprite
+Include = EVERYTHING
+Exclude = 
+Edit = EVERYTHING
+
+Name = Head Of Lore
+Include = EVERYTHING
+Exclude = 
+Edit = EVERYTHING
